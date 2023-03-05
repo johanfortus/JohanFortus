@@ -7,7 +7,7 @@ Computer Science Student
 I have been learning web development for 1 year and am looking for a job in the industry.
 
 * 🌍  I'm based in Florida
-* ✉️  You can contact me at fortusjohan@gmail.com](mailto:fortusjohan@gmail.com)
+* ✉️  You can contact me at [fortusjohan@gmail.com](mailto:fortusjohan@gmail.com)
 
 ### Skills
 
