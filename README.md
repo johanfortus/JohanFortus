@@ -4,7 +4,7 @@ Hi 👋 My name is Johan
 Computer Science Student
 ------------------
 
-I have been learning web development for 1 year and am looking for a job in the industry.
+My name is Johan and I'm a computer science student with a passion for learning and creating.
 
 * 🌍  I'm based in Florida
 * ✉️  You can contact me at [fortusjohan@gmail.com](mailto:fortusjohan@gmail.com)
