@@ -7,7 +7,7 @@ Computer Science Student
 My name is Johan and I'm a computer science student with a passion for learning and creating.
 
 * 🌍  I'm based in Florida
-* ✉️  You can contact me at [fortusjohan@gmail.com](mailto:fortusjohan@ufl.edu)
+* ✉️  You can contact me at [fortusjohan@ufl.edu](mailto:fortusjohan@ufl.edu)
 
 ### Skills
 
